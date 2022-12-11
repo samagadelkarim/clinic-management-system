@@ -1,0 +1,13 @@
+C:\Users\ramys\source\repos\clinic management system\clinic management system\bin\Debug\clinic management system.exe.config
+C:\Users\ramys\source\repos\clinic management system\clinic management system\bin\Debug\clinic management system.exe
+C:\Users\ramys\source\repos\clinic management system\clinic management system\bin\Debug\clinic management system.pdb
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic management system.csproj.AssemblyReference.cache
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic_management_system.Form1.resources
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic_management_system.Properties.Resources.resources
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic management system.csproj.GenerateResource.cache
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic management system.csproj.CoreCompileInputs.cache
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic management system.exe
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic management system.pdb
+C:\Users\ramys\source\repos\clinic management system\clinic management system\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic_management_system.AdminPane.resources
+C:\Users\ramys\source\repos\clinic management system\clinic management system\obj\Debug\clinic management system.csproj.CopyComplete
